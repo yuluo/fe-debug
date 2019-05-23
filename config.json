@@ -1,9 +1,6 @@
 {
-    "remote": "https://10.200.170.132",
-    "remote2": "http://tviewnoc.ga1.web.dyncloud.idirect.net",
-    "grunt": "../../web_core",
-    "pulse_fe": "../../web_core/nmsweb",
-    "web_core": "../../web_core/nmsweb",
+    "remote": "https://<host>",
+    "fe": "path/to/fe",
     "watch": ["js", "json", "tpl", "less"],
     "callbacks": [{
         "file": "compile-less",
