@@ -1,4 +1,4 @@
-## Synopsis
+## Description
 
 Node scripts for running FE code separate from BE services. It can run backend repo on one server (including Windows) and redirect all endpoint queries to another server.
 
