@@ -1,0 +1,21 @@
+{
+  "name": "Local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "finalhandler": "^0.5.1",
+    "http-proxy": "^1.16.2",
+    "lodash": "^4.17.2",
+    "opn": "^5.0.0",
+    "reloadify": "^0.2.2",
+    "serve-static": "^1.11.1"
+  }
+}
